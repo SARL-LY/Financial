@@ -6,3 +6,5 @@ dist
 .env
 .env.*
 !.env.example
+# Igore admin seed file
+supabase/seed_admin.sql
